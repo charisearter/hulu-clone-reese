@@ -1,0 +1,10 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "svipas.prettier-plus",
+  "editor.definitionLinkOpensInPeek": true,
+  "editor.tabCompletion": "on"
+}
