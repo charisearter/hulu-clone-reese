@@ -2,7 +2,7 @@ import React from "react";
 import "./videoCard-style.css";
 import TextTruncate from "react-text-truncate";
 
-const base_url = "https://image.tmdb.org/t/p/original";
+const base_url = "https://image.tmdb.org/t/p/w500";
 
 function VideoCard({ movie }) {
 	return (
