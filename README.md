@@ -10,3 +10,5 @@ _Built with:_
 - Flexbox
 - Firebase for deployment
 - TMDB API
+
+Live: https://hulu-clone-reese.web.app/
