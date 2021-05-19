@@ -2,7 +2,7 @@
 	display: flex;
 	color: white;
 	overflow-x: scroll;
-	padding: 10px;
+	padding: 1em;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -20,11 +20,13 @@
 
 .nav > h2 {
 	cursor: pointer;
-	margin-left: 30px;
-	margin-right: 30px;
+	margin-left: 3em;
+	margin-right: 3em;
 	font-weight: 500;
+	font-size: 1.125rem;
 	opacity: 0.7;
-	transition: transform 50ms ease-out;
+	text-align: center;
+	transition: transform 200ms ease-in-out;
 }
 
 .nav > h2:hover {

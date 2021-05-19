@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./results-style.css";
 import VideoCard from "../videocard/VideoCard";
-import axios from "./axios";
+import axios from "../requests/axios";
 import FlipMove from "react-flip-move";
 
 function Results({ selectedOption }) {

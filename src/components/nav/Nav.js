@@ -1,5 +1,5 @@
 import React from "react";
-import requests from "../results/requests";
+import requests from "../requests/requests";
 import "./nav-style.css";
 
 function Nav({ setSelectedOption }) {

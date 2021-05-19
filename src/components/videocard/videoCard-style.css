@@ -2,17 +2,16 @@
 	color: white;
 	width: 500px;
 	height: 400px;
-	padding: 25px;
-
-	transition: transform 100ms;
+	padding: 3.5em;
+	transition: transform 500ms;
+	margin-bottom: 1.5em;
 }
 
 .videoCard:hover {
-	transform: scale(1.09);
+	transform: scale(1.05);
 }
 
 .videoCard > img {
-
 	height: 300px;
 	object-fit: contain;
 	width: 500px;
@@ -26,5 +25,10 @@
 }
 
 .videoCard > h2 {
-	padding-top: 10px;
+	padding-top: 1em;
+	font-size: 1.3rem;
+}
+
+.videoCard > p {
+	font-size: 1.2rem;
 }
