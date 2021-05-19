@@ -1,4 +1,4 @@
-**Hulu Clone:** Hulu clone using only state and props.
+**Hulu Clone (sort of):** Hulu clone using only state and props.
 
 _Built with:_
 
